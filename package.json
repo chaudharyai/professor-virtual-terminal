@@ -1,0 +1,14 @@
+{
+  "name": "professor-virtual-terminal",
+  "version": "1.0.0",
+  "description": "A backend system to capture PayPal payments securely.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "body-parser": "^1.20.2",
+    "@paypal/paypal-server-sdk": "^1.0.1"
+  }
+}
