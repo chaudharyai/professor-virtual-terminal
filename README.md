@@ -36,5 +36,5 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chaudharyai/paypal-virtual-terminal.git
-   cd paypal-virtual-terminal
+   git clone https://github.com/chaudharyai/professor-virtual-terminal.git
+   cd professor-virtual-terminal
