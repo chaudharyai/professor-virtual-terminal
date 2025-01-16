@@ -1,0 +1,6 @@
+PAYPAL_CLIENT_ID=your-paypal-client-id
+PAYPAL_CLIENT_SECRET=your-paypal-client-secret
+PORT=3000
+NODE_ENV=development
+APP_NAME=Professor Virtual Terminal
+CURRENCY=USD
