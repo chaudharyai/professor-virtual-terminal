@@ -1,5 +1,5 @@
-PAYPAL_CLIENT_ID=your-paypal-client-id
-PAYPAL_CLIENT_SECRET=your-paypal-client-secret
+PAYPAL_CLIENT_ID=AY6KYZmxKXvVyQAX7cRxjgxNDB7eK6Na7B235NgZyzNri3n1O7WMcrLu2gaXKDLapG7rR97FTTS_aRau
+PAYPAL_CLIENT_SECRET=EEJCtrEha4AVX5oigENZBMx6Tq-yjmbmIMg_wvkymHMxSj4CyOaB6TrwCbEBPkYvZ69k3P_G0sWmuFAK
 PORT=3000
 NODE_ENV=development
 APP_NAME=Professor Virtual Terminal
