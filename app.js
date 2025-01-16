@@ -1,5 +1,5 @@
 const express = require('express');
-const paypal = require('@paypal/paypal-server-sdk');
+const paypal = require('@paypal/checkout-server-sdk');
 const bodyParser = require('body-parser');
 
 const app = express();
